@@ -1,4 +1,4 @@
-# call native
+# Call Native
 
 A calculator made with "Rust" and "Zig", consumed with Bun.js
 
