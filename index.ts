@@ -25,3 +25,5 @@ console.log(lib.symbols.sum(10, 2));
 console.log(lib.symbols.sub(10, 2));
 console.log(lib.symbols.mul(7, 2));
 console.log(lib.symbols.div(10, 2));
+
+//
