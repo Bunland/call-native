@@ -1,5 +1,14 @@
 # Based on https://raw.githubusercontent.com/github/gitignore/main/Node.gitignore
 
+# ignore binaries
+
+/src/c/numbers/libnumbers.so
+/src/cpp/numbers/libnumbers.so
+/src/go/numbers/libnumbers.so
+/src/go/numbers/libnumbers.h
+
+
+
 # Logs
 
 logs
