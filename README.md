@@ -1,6 +1,6 @@
-# Bun-FFI-Rust-and-Zig
-A calculator made with "Rust" and "Zig", consumed with Bun.js
+# Call Native
 
+A calculator made with "Rust" and "Zig", consumed with Bun.js
 
 To compile with Zig:
 
